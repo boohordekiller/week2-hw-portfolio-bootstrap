@@ -38,3 +38,9 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.border-line-remove:hover {
+color: white;
+text-decoration: none;
+opacity: 0.8;
+}
