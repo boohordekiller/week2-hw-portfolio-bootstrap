@@ -1,0 +1,26 @@
+.contact {
+    padding-left: 0px;
+}
+
+.col {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+    border: none;
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 17px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: green;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
